@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Thank you for stopping by. These are a few highlighted projects that I have worked on, but not all. Feel free to view other projects, beyond these, in my [repositories](https://github.com/CodeNameJacks?tab=repositories). 
 
-<hr></hr>
+
 <br></br>
 **<ins>Highlighted Projects </ins>**
 <br></br>
