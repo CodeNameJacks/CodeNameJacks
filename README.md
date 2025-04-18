@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Thank you for stopping by. These are a few highlighted projects that I have worked on, but not all. Feel free to view other projects in my respositories. 
+Thank you for stopping by. These are a few highlighted projects that I have worked on, but not all. Feel free to view other projects, beyond these, in my [repositories](https://github.com/CodeNameJacks?tab=repositories). 
 
 [Distance calculator](https://github.com/CodeNameJacks/distancecalc) - calculates and returns the distance between two addresses using the Nominatim API. It is a SvelteKit, Node.js, Ecpress.js application written in Typescript and supported by a MondgDB database. 
 
